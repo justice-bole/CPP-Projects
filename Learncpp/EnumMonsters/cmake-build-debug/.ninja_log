@@ -1,0 +1,17 @@
+# ninja log v5
+48	94	1661891497645720535	EnumMonsters	592cd9d7eaaac070
+2	48	1661891497597398245	CMakeFiles/EnumMonsters.dir/monsters.cpp.o	7e9a68d5f499b378
+0	379	1661890900004727925	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+0	40	1661891533394584738	build.ninja	4d21d8a981dfeb49
+2	568	1661892770981719645	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+2	569	1661892770982227681	CMakeFiles/EnumMonsters.dir/monsters.cpp.o	7e9a68d5f499b378
+569	612	1661892771028739116	EnumMonsters	592cd9d7eaaac070
+2	344	1661892920659207188	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+344	377	1661892920693857841	EnumMonsters	592cd9d7eaaac070
+2	330	1661893010310099588	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+330	361	1661893010342282736	EnumMonsters	592cd9d7eaaac070
+2	322	1661893143831086165	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+2	331	1661893143840020316	CMakeFiles/EnumMonsters.dir/monsters.cpp.o	7e9a68d5f499b378
+331	363	1661893143874687213	EnumMonsters	592cd9d7eaaac070
+3	335	1661988521588622244	CMakeFiles/EnumMonsters.dir/main.cpp.o	c273a4e3a8b2c149
+335	367	1661988521622324270	EnumMonsters	592cd9d7eaaac070

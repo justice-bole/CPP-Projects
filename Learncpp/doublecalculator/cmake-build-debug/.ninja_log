@@ -1,0 +1,16 @@
+# ninja log v5
+0	31	1660871419944898299	build.ninja	6d04d5849bc3d0ef
+0	317	1660871420264462309	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+318	348	1660871420297997792	doublecalculator	7d268aac57f883dd
+2	346	1660872900332185074	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+346	382	1660872900370850951	doublecalculator	7d268aac57f883dd
+2	325	1660872942557013873	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+325	357	1660872942591268333	doublecalculator	7d268aac57f883dd
+2	322	1660873181010038490	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+322	355	1660873181045155700	doublecalculator	7d268aac57f883dd
+2	331	1660873246817632426	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+332	364	1660873246852795095	doublecalculator	7d268aac57f883dd
+2	326	1660876653863422523	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+326	360	1660876653899489312	doublecalculator	7d268aac57f883dd
+2	330	1660877044382807268	CMakeFiles/doublecalculator.dir/main.cpp.o	67c9616dac1949ce
+331	363	1660877044417962816	doublecalculator	7d268aac57f883dd

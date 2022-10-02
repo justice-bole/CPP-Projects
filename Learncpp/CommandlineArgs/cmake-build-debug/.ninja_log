@@ -1,0 +1,13 @@
+# ninja log v5
+0	390	1662742884869803575	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+391	423	1662742884904258068	CommandlineArgs	3ee2685e5cd903d
+2	324	1662742897713257881	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+324	353	1662742897744075978	CommandlineArgs	3ee2685e5cd903d
+2	325	1662743002665114524	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+325	354	1662743002695796203	CommandlineArgs	3ee2685e5cd903d
+2	356	1662743071086938252	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+356	388	1662743071120837241	CommandlineArgs	3ee2685e5cd903d
+2	327	1662743092392799054	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+327	355	1662743092422485145	CommandlineArgs	3ee2685e5cd903d
+2	328	1662743102217607541	CMakeFiles/CommandlineArgs.dir/main.cpp.o	a11ea208d8c4f79b
+328	355	1662743102246610960	CommandlineArgs	3ee2685e5cd903d

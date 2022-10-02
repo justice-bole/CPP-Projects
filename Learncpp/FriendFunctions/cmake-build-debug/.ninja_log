@@ -1,0 +1,7 @@
+# ninja log v5
+1	261	1663172108626098152	CMakeFiles/FriendFunctions.dir/main.cpp.o	f7135aa782fc8c37
+261	291	1663172108657945599	FriendFunctions	19185b04e36aeb46
+2	248	1663179496215864738	CMakeFiles/FriendFunctions.dir/main.cpp.o	f7135aa782fc8c37
+3	257	1663179496224391799	CMakeFiles/FriendFunctions.dir/Vector3d.cpp.o	de6324fa62072764
+3	258	1663179496226116303	CMakeFiles/FriendFunctions.dir/Point3d.cpp.o	808d6c8b8018c57c
+258	292	1663179496261241963	FriendFunctions	aa5574467b3fab3

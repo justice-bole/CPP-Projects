@@ -1,0 +1,4 @@
+# ninja log v5
+0	42	1663073527897874728	build.ninja	9634e65a498efeec
+341	379	1663024813122010054	Constructors	e7dfaf2e39a95fef
+1	341	1663024813081220309	CMakeFiles/Constructors.dir/main.cpp.o	b99adff604f30a66

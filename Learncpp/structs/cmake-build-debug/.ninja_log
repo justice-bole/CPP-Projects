@@ -1,0 +1,6 @@
+# ninja log v5
+2	351	1661860740421389682	CMakeFiles/structs.dir/frac_func.cpp.o	ac26d0caaf4e4b2d
+325	354	1661862988832079765	structs	22731a0aa62dbe99
+0	41	1662318184189045370	build.ninja	6f7b3ce5e1ecc733
+2	325	1661862988801107761	CMakeFiles/structs.dir/functions.cpp.o	88a064afe9e1b9a9
+1	313	1661862988788624293	CMakeFiles/structs.dir/main.cpp.o	77334f8f53d6d793

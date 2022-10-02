@@ -1,0 +1,4 @@
+# ninja log v5
+265	297	1663077033919057761	NonstaticMemInit	d7fff3f43527b088
+2	264	1663077033885237764	CMakeFiles/NonstaticMemInit.dir/main.cpp.o	3eb2cd50abb87123
+0	38	1663107523600607504	build.ninja	f8151dfa4bffce19

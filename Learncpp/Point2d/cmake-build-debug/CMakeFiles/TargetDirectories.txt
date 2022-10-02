@@ -1,0 +1,3 @@
+/Users/jay/CLionProjects/Point2d/cmake-build-debug/CMakeFiles/Point2d.dir
+/Users/jay/CLionProjects/Point2d/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jay/CLionProjects/Point2d/cmake-build-debug/CMakeFiles/rebuild_cache.dir

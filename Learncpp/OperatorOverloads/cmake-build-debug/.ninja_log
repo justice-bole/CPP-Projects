@@ -1,0 +1,11 @@
+# ninja log v5
+0	332	1663761173348231101	CMakeFiles/OperatorOverloads.dir/main.cpp.o	43152c16b5f9005a
+333	378	1663761173395650823	OperatorOverloads	a2bfb7b65736090b
+1	273	1663761205674264206	CMakeFiles/OperatorOverloads.dir/main.cpp.o	43152c16b5f9005a
+273	303	1663761205706717074	OperatorOverloads	a2bfb7b65736090b
+2	270	1663761226914810907	CMakeFiles/OperatorOverloads.dir/main.cpp.o	43152c16b5f9005a
+270	298	1663761226944169572	OperatorOverloads	a2bfb7b65736090b
+2	535	1663765783278610506	CMakeFiles/OperatorOverloads.dir/main.cpp.o	43152c16b5f9005a
+535	578	1663765783324231309	OperatorOverloads	a2bfb7b65736090b
+2	529	1663781660647971029	CMakeFiles/OperatorOverloads.dir/main.cpp.o	43152c16b5f9005a
+529	576	1663781660696920069	OperatorOverloads	a2bfb7b65736090b

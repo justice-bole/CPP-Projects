@@ -1,0 +1,4 @@
+# ninja log v5
+1	40	1662505358527018283	build.ninja	526d033abae79f77
+2	322	1662502629105179618	CMakeFiles/PointerArithmetic.dir/main.cpp.o	de751d3d73c39f73
+322	350	1662502629134729790	PointerArithmetic	cc772d5ac0c8e525
